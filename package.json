@@ -1,0 +1,13 @@
+
+{
+  "name": "mi-primera-pagina-web",
+  "version": "1.0.0",
+  "description": "Página web en Azure",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
